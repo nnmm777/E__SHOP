@@ -1,0 +1,20 @@
+.about-us-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.about-us-info {
+    font-size: 16px;
+    color: #333;
+}
+
+.about-us-info a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.about-us-info a:hover {
+    color: #0056b3;
+}
